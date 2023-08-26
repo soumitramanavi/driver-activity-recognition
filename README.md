@@ -11,4 +11,5 @@ CBAM_MobileNetV3Large.ipynb and CBAM_EfficientNetB3.ipynb are the files where ex
 
 References:
 State Farm Dataset : https://www.kaggle.com/competitions/state-farm-distracted-driver-detection/data
+AUC Driver Dataset : https://heshameraqi.github.io/distraction_detection
 
