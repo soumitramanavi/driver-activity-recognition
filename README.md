@@ -13,6 +13,7 @@ These models are also trained and tested on AUC Driver Dataset Camera 2 where th
 
 
 References:
-State Farm Dataset : https://www.kaggle.com/competitions/state-farm-distracted-driver-detection/data
+State Farm Dataset : https://www.kaggle.com/competitions/state-farm-distracted-driver-detection/data 
+
 AUC Driver Dataset : https://heshameraqi.github.io/distraction_detection
 
