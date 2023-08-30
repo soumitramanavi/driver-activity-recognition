@@ -8,7 +8,7 @@ We conduct analysis on both the light weight models and analyse the dataset ambi
 
 CBAM_MobileNetV3Large_V1.0.ipynb and CBAM_EfficientNetB3_V1.0.ipynb are the files where experiments are conducted for State Farm Dataset.
 
-These models are also trained and tested on AUC Driver Dataset Camera 2 where the images are of different camera angle and position. The images are also taken in opposite direction to that of State Farm data. The experiment code is available in CBAM_MobileNetV3Large_AUCCAM2_V1.0.ipynb and CBAM_EfficientNetB3_AUCCAM2_V1.0.ipynb files.
+These models are also trained and tested on AUC Driver Dataset Camera 2 where the images are of different camera angle and position. The images are also taken in opposite direction to that of State Farm data. The experiment code is available in CBAM_MobileNetV3Large_AUCCAM2_V1.1.ipynb and CBAM_EfficientNetB3_AUCCAM2_V1.1.ipynb files.
 
 
 
